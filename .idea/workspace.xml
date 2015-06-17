@@ -24,26 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LexTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LexTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1860">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-              <folding>
-                <element signature="e#26#36#0" expanded="true" />
-                <element signature="e#81#147#0" expanded="false" />
-                <element signature="e#176#254#0" expanded="false" />
-                <element signature="e#4360#6054#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Run.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="900">
-              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.8060345" vertical-offset="556" max-vertical-offset="1020">
+              <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
               <folding>
                 <element signature="e#26#41#0" expanded="true" />
               </folding>
@@ -51,18 +36,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YaccTestLoops.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YaccTestLoops.py">
+      <file leaf-file-name="YaccTacGeneration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YaccTacGeneration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6441718" vertical-offset="0" max-vertical-offset="489">
-              <caret line="539" column="16" selection-start-line="539" selection-start-column="16" selection-end-line="539" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1621" max-vertical-offset="3075">
+              <caret line="1008" column="4" selection-start-line="1008" selection-start-column="4" selection-end-line="1008" selection-end-column="4" />
               <folding>
                 <element signature="e#25#36#0" expanded="true" />
                 <element signature="e#105#814#0" expanded="false" />
-                <element signature="e#875#7740#0" expanded="false" />
-                <element signature="e#7806#14881#0" expanded="false" />
-                <element signature="e#14934#16410#0" expanded="false" />
+                <element signature="e#864#1088#0" expanded="false" />
+                <element signature="e#1146#13528#0" expanded="false" />
+                <element signature="e#13584#17599#0" expanded="false" />
+                <element signature="e#17658#23299#0" expanded="false" />
+                <element signature="e#23356#31956#0" expanded="false" />
+                <element signature="e#32009#40778#0" expanded="false" />
+                <element signature="e#40852#48222#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="967" max-vertical-offset="1635">
+              <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,19 +74,21 @@
         <option value="$PROJECT_DIR$/Sjaak.py" />
         <option value="$PROJECT_DIR$/testArg.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/lex.py" />
         <option value="$PROJECT_DIR$/test/SyntaxTest.py" />
         <option value="$PROJECT_DIR$/LexTest.py" />
         <option value="$PROJECT_DIR$/SyntaxTest.py" />
-        <option value="$PROJECT_DIR$/Yacc.py" />
         <option value="$PROJECT_DIR$/YaccTestSimpleFunction.py" />
-        <option value="$PROJECT_DIR$/Run.py" />
         <option value="$PROJECT_DIR$/YaccTestLoops.py" />
+        <option value="$PROJECT_DIR$/lex.py" />
+        <option value="$PROJECT_DIR$/Scope.py" />
+        <option value="$PROJECT_DIR$/Yacc.py" />
+        <option value="$PROJECT_DIR$/YaccTacGeneration.py" />
+        <option value="$PROJECT_DIR$/Run.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1434" />
+    <option name="width" value="1440" />
     <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -175,7 +176,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in YaccTestVarDecla" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in YaccTestVarDeclaSyntax" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -185,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="UnitTesting" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestVarDecla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestVarDeclaSyntax.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -209,7 +210,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="UnitTesting" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestVarDecla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestVarDeclaSyntax.py" />
       <option name="CLASS_NAME" value="TestCreateFunction" />
       <option name="METHOD_NAME" value="test_CreateFunction" />
       <option name="FOLDER_NAME" value="" />
@@ -233,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="UnitTesting" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestSimpleFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestSimpleFunctionSyntax.py" />
       <option name="CLASS_NAME" value="ParametrizedTestCase" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -257,7 +258,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="UnitTesting" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestSimpleFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YaccTestSimpleFunctionSyntax.py" />
       <option name="CLASS_NAME" value="TestSimpleFunctionNoParamsWithSimpleBody" />
       <option name="METHOD_NAME" value="test_SimpleFunctionVarDeclarationMixedReverse" />
       <option name="FOLDER_NAME" value="" />
@@ -395,7 +396,7 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Run" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in YaccTestVarDecla" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in YaccTestVarDeclaSyntax" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCreateFunction.test_CreateFunction" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in ParametrizedTestCase" />
       <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSimpleFunctionNoParamsWithSimpleBody.test_SimpleFunctionVarDeclarationMixedReverse" />
@@ -405,7 +406,7 @@
         <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Run" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestSimpleFunctionNoParamsWithSimpleBody.test_SimpleFunctionVarDeclarationMixedReverse" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ParametrizedTestCase" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in YaccTestVarDecla" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in YaccTestVarDeclaSyntax" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCreateFunction.test_CreateFunction" />
       </list>
     </recent_temporary>
@@ -424,7 +425,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1434" height="875" extended-state="4" />
+    <frame x="0" y="0" width="1440" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -432,10 +433,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496523" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901555" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34455958" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -466,21 +467,93 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="930">
+          <caret line="55" column="102" selection-start-line="55" selection-start-column="102" selection-end-line="55" selection-end-column="102" />
+          <folding>
+            <element signature="e#26#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yacc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3832" max-vertical-offset="5340">
+          <caret line="280" column="0" selection-start-line="280" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
+          <folding>
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YaccTacGeneration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+            <element signature="e#105#814#0" expanded="false" />
+            <element signature="e#864#1088#0" expanded="false" />
+            <element signature="e#1146#13528#0" expanded="false" />
+            <element signature="e#13584#17599#0" expanded="false" />
+            <element signature="e#17658#23299#0" expanded="false" />
+            <element signature="e#23356#31956#0" expanded="false" />
+            <element signature="e#32009#40778#0" expanded="false" />
+            <element signature="e#40852#48222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="967" max-vertical-offset="1635">
+          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LexTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1860">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="900">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
+            <element signature="e#26#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YaccTestLoopsSyntax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#36#0" expanded="false" />
+            <element signature="e#105#814#0" expanded="false" />
+            <element signature="e#875#7740#0" expanded="false" />
+            <element signature="e#7806#14881#0" expanded="false" />
+            <element signature="e#14934#16410#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LexTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1860">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -494,15 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YaccTestSimpleFunction.py">
+    <entry file="file://$PROJECT_DIR$/YaccTestSimpleFunctionSyntax.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="180" column="76" selection-start-line="180" selection-start-column="76" selection-end-line="180" selection-end-column="76" />
-          <folding>
-            <element signature="e#25#36#0" expanded="true" />
-            <element signature="e#2690#5576#0" expanded="false" />
-            <element signature="e#5660#7695#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,12 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,7 +600,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -547,12 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1725">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,7 +632,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,12 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2280">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,7 +664,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -621,12 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2280">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,7 +696,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -658,12 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,7 +728,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <element signature="e#26#49#0" expanded="true" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -713,23 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yacc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5106" max-vertical-offset="5595">
-          <caret line="296" column="4" selection-start-line="296" selection-start-column="4" selection-end-line="296" selection-end-column="4" />
-          <folding>
-            <element signature="e#26#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1656442" vertical-offset="900" max-vertical-offset="1560">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TODO">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="489">
@@ -741,62 +767,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1860">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YaccTestVarDeclaSyntax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1335">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YaccTestSimpleFunctionSyntax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="180" column="15" selection-start-line="180" selection-start-column="15" selection-end-line="180" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0691824" vertical-offset="783" max-vertical-offset="1860">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yacc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4713" max-vertical-offset="5580">
+          <caret line="326" column="23" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
           <folding>
-            <element signature="e#26#36#0" expanded="true" />
-            <element signature="e#81#147#0" expanded="false" />
-            <element signature="e#176#254#0" expanded="false" />
-            <element signature="e#4360#6054#0" expanded="false" />
+            <element signature="e#26#49#0" expanded="false" />
+            <element signature="e#10033#11856#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YaccTestSimpleFunction.py">
+    <entry file="file://$PROJECT_DIR$/YaccTestLoopsSyntax.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11042945" vertical-offset="96" max-vertical-offset="1170">
-          <caret line="180" column="15" selection-start-line="180" selection-start-column="15" selection-end-line="180" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.28301886" vertical-offset="0" max-vertical-offset="477">
+          <caret line="253" column="0" selection-start-line="253" selection-start-column="0" selection-end-line="253" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#36#0" expanded="false" />
+            <element signature="e#105#814#0" expanded="false" />
+            <element signature="e#875#7740#0" expanded="false" />
+            <element signature="e#7806#14881#0" expanded="false" />
+            <element signature="e#14934#16410#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="967" max-vertical-offset="1635">
+          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YaccTacGeneration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1621" max-vertical-offset="3075">
+          <caret line="1008" column="4" selection-start-line="1008" selection-start-column="4" selection-end-line="1008" selection-end-column="4" />
           <folding>
             <element signature="e#25#36#0" expanded="true" />
             <element signature="e#105#814#0" expanded="false" />
-            <element signature="e#883#2597#0" expanded="false" />
-            <element signature="e#2690#5576#0" expanded="false" />
+            <element signature="e#864#1088#0" expanded="false" />
+            <element signature="e#1146#13528#0" expanded="false" />
+            <element signature="e#13584#17599#0" expanded="false" />
+            <element signature="e#17658#23299#0" expanded="false" />
+            <element signature="e#23356#31956#0" expanded="false" />
+            <element signature="e#32009#40778#0" expanded="false" />
+            <element signature="e#40852#48222#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="900">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.8060345" vertical-offset="556" max-vertical-offset="1020">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
           <folding>
             <element signature="e#26#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YaccTestVarDecla.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#37#0" expanded="true" />
-            <element signature="e#106#815#0" expanded="false" />
-            <element signature="e#878#3020#0" expanded="false" />
-            <element signature="e#3080#5246#0" expanded="false" />
-            <element signature="e#5309#6858#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YaccTestLoops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6441718" vertical-offset="0" max-vertical-offset="489">
-          <caret line="539" column="16" selection-start-line="539" selection-start-column="16" selection-end-line="539" selection-end-column="16" />
-          <folding>
-            <element signature="e#25#36#0" expanded="true" />
-            <element signature="e#105#814#0" expanded="false" />
-            <element signature="e#875#7740#0" expanded="false" />
-            <element signature="e#7806#14881#0" expanded="false" />
-            <element signature="e#14934#16410#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -104,6 +104,11 @@ class Scope():
             if subscope.creator.name == name:
                 return subscope.symbolTable.giveSizeParam()
 
+    def giveBackTypeForVar(self,name):
+        for element in self.symbolTable.table:
+            if element.name == name:
+                return element.type
+
 
     def __str__(self):
         temp = str(self.symbolTable)
